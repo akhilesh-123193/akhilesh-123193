@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on "Building a Second Brain - An intelligent content aggregation platform with AI capabilities using Express, TypeScript, MongoDB and React"<br><br>👯 I'm looking to collaborate on "Full-stack projects involving AI and modern web technologies"<br><br>🤝 I'm looking for help with "Advanced AI implementations and vector databases"<br><br>🌱 I'm currently learning "Vector embeddings, semantic search, and AI integration in web applications"<br><br>💬 Ask me about "JavaScript, TypeScript, React, Express, MongoDB"<br><br>⚡ Fun fact "I'm building a tool that makes digital knowledge management smarter!"<br><br>
+🔭 I'm currently working on "Building a Chat-To-Pdf APP <br>👯 I'm looking to collaborate on "Full-stack projects involving AI and modern web technologies"<br><br>🤝 I'm looking for help with "Advanced AI implementations and vector databases"<br><br>🌱 I'm currently learning "Vector embeddings, semantic search, and AI integration in web applications"<br><br>💬 Ask me about "JavaScript, TypeScript, React, Express, MongoDB"<br><br>⚡ Fun fact "I'm building a tool that makes digital knowledge management smarter!"<br><br>
 
 
 ## 🌐 Socials:
