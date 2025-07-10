@@ -1,8 +1,9 @@
-# 💫 About Me:
-🔭 I'm currently working on "Building a Chat-To-PDF APP <br><br>👯 I'm looking to collaborate on "Full-stack projects involving AI and modern web technologies"<br><br>🤝 I'm looking for help with "Advanced AI implementations and vector databases"<br><br>🌱 I'm currently learning "Vector embeddings, semantic search, and AI integration in web applications"<br><br>💬 Ask me about "JavaScript, TypeScript, React, Express, MongoDB"<br><br>
+## 💫 About Me
 
-
-## 🌐 Socials:
+- 🎓 3rd-year CSE student | 💻 Love to code, build, and ship apps  
+- 🎮 Gamer & tech enthusiast  
+- 🚀 Open to collaborating on full-stack web projects  
+- 🧠 Currently learning AI and backend technologies  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthea-c-924897210/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AkhileshPh36425) 
 
 
